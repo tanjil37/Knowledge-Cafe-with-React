@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "cover": "The Hidden Journey",
+    "author": "Aryan Gupta",
+    "img": "https://i.ibb.co.com/56QMN2Y/pexels-ann-h-45017-1765033.jpg",
+    "posted_date": "2025-01-01",
+    "reading_time": 5,
+    "hashtags": ["#travel", "#adventure", "#inspiration"]
+  },
+  {
+    "id": 2,
+    "cover": "The Digital Nomad's Guide",
+    "author": "Sophia Lee",
+    "img": "https://i.ibb.co.com/pb7Z2sQ/pexels-maggie-zhan-144531-1698482.jpg",
+    "posted_date": "2024-12-28",
+    "reading_time": 8,
+    "hashtags": ["#tech", "#lifestyle", "#remotework"]
+  },
+  {
+    "id": 3,
+    "cover": "Cooking Made Simple",
+    "author": "Rahul Das",
+    "img": "https://i.ibb.co.com/25nYCmL/pexels-liza-summer-6347919.jpg",
+    "posted_date": "2024-12-30",
+    "reading_time": 10,
+    "hashtags": ["#food", "#recipes", "#healthy"]
+  },
+  {
+    "id": 4,
+    "cover": "The Art of Minimalism",
+    "author": "Emily Carter",
+    "img": "https://i.ibb.co.com/GQV6gSP/pexels-jakubzerdzicki-27691009.jpg",
+    "posted_date": "2024-12-27",
+    "reading_time": 7,
+    "hashtags": ["#design", "#lifestyle", "#simplicity"]
+  },
+  {
+    "id": 5,
+    "cover": "Exploring the Cosmos",
+    "author": "Zahid Khan",
+    "img": "https://i.ibb.co.com/fQqPHxd/pexels-jakubzerdzicki-28176919.jpg",
+    "posted_date": "2025-01-01",
+    "reading_time": 6,
+    "hashtags": ["#science", "#space", "#exploration"]
+  }
+]
